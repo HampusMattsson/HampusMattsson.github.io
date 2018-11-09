@@ -43,3 +43,6 @@ body{
 	text-align: center;
 	padding-top: 35px;
 }
+img{
+	max-width: 100%
+}
